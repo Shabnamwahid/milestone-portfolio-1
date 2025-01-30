@@ -15,8 +15,9 @@
 const nextConfig = {
     images: {
       unoptimized: true, // Disable optimization for local images
+      domains: ['localhost'],
     },
   };
   
   export default nextConfig;
-  
+ 
