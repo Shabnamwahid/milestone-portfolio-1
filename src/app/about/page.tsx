@@ -21,6 +21,7 @@ const About = () => {
               applications.</p>
               </div>
          <div>
+          {/* iMAGE */}
          <Image src="/images/port-image.jpg" alt="person"
       width={200} height={200} className='img'/> 
          </div>
